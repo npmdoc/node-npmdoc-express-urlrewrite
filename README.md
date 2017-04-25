@@ -1,4 +1,7 @@
-# api documentation for  [express-urlrewrite (v1.2.0)](https://github.com/kapouer/express-urlrewrite#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-urlrewrite.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-urlrewrite) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-urlrewrite.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-urlrewrite)
+# npmdoc-express-urlrewrite
+
+#### basic api documentation for  [express-urlrewrite (v1.2.0)](https://github.com/kapouer/express-urlrewrite#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-urlrewrite.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-urlrewrite) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-urlrewrite.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-urlrewrite)
+
 #### URL rewrite middleware for express
 
 [![NPM](https://nodei.co/npm/express-urlrewrite.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-urlrewrite)
@@ -57,7 +60,8 @@
         "url": "git://github.com/kapouer/express-urlrewrite.git"
     },
     "scripts": {},
-    "version": "1.2.0"
+    "version": "1.2.0",
+    "bin": {}
 }
 ```
 
